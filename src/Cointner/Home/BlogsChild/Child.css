@@ -1,0 +1,36 @@
+.Main__div {
+  width: 100%;
+  height: auto;
+  text-align: center;
+}
+.inner__div {
+  padding: 20px 2%;
+  width: 50%;
+  display: inline-block;
+  border: 1px solid black;
+  border-radius: 10px;
+  margin-bottom: 2%;
+}
+.inner__div:hover {
+  background-color: aliceblue;
+  transform: scale(1) scale(1.02);
+  box-shadow: -0px -0px 15px 0px black;
+}
+.heading_title {
+  color: tomato;
+  text-align: left;
+  padding-bottom: 1%;
+}
+.blog__data {
+  text-align: left;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+
+.heading__blog {
+  text-align: center;
+}

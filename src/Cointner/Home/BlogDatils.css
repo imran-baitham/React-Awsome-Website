@@ -1,0 +1,49 @@
+.blog__div {
+  width: 100%;
+  height: auto;
+  text-align: center;
+  padding-top: 0%;
+}
+.blog-details {
+  padding: 20px 2%;
+  width: 50%;
+  display: inline-block;
+  border: 1px solid black;
+  border-radius: 10px;
+  margin: 5% 0px;
+  box-shadow: -0px -0px 10px 0px black;
+  transform: scale(1) scale(1.02);
+  background-color: aliceblue;
+}
+article h1 {
+  color: tomato;
+  text-align: left;
+  padding-bottom: 5px;
+}
+article p {
+  text-align: left;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  padding-bottom: 5px;
+}
+article div {
+  text-align: left;
+  padding: 2% 0px;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+
+.heading__blog {
+  text-align: center;
+}
+
+button {
+  background-color: tomato;
+  color: #fff;
+  border: 0;
+  padding: 7px 25px;
+  border-radius: 2px;
+  cursor: pointer;
+}
